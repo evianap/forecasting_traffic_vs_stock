@@ -72,7 +72,7 @@ import datetime as dt
 
 Enrique Viana - [@evianap][linkedin-url] - j.enrique.viana@gmail.com
 
-Project Link: [https://github.com/evianap/forecasting_traffic_vs_stock](https://github.com/evianap/ETF_Financial_App)
+Project Link: [https://github.com/evianap/forecasting_traffic_vs_stock](https://github.com/evianap/forecasting_traffic_vs_stock)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
